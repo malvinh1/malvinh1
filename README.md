@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**malvinh1/malvinh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![malvin's github stats](https://github-readme-stats.vercel.app/api?username=malvinh1&show_icons=true&theme=dark)
+
+![malvin's top language](https://github-readme-stats.vercel.app/api/top-langs/?username=malvinh1&theme=dracula&layout=compact)
+
 
 Here are some ideas to get you started:
 
