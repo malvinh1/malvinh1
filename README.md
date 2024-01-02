@@ -2,6 +2,8 @@
 
 I am an enthusiastic, adaptive, communicative, and strong-willed software engineer. He is eager to learn any programming, language, library, and frameworks. My tech stacks are react (native & js), node js, typescript, javascript, and graphQL/restful API.
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/malvinh1/langs)](https://githubtrends.io)
+
 📫 How to reach me: 
 
 - Email: malvinhariyanto50@gmail.com
